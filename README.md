@@ -14,6 +14,7 @@ Before you contribute to the repository please take note of the existing compone
     * For component types place them in their own sub-folders. E.g. venture/product-collection/**templates/collection-no-price.liquid** and venture/product-collection/**snippets/product-card-no-price.liquid**.
   * Your commit includes an image of the final component in either a jpeg or png format
   * If there are any changes to large files such as theme.scss(.liquid), theme.js, or vendor.js please extract only those areas changed and detail them in a separate file.
+  * After a PR is approved, it's your choice to delete the branch you were working on. If there's no updates in 30 days it will be deleted by administrators.
 
 ## How to install and use the components
 Simply pull all the files from the directory of your choosing and place them in the appropriate local directories. E.g. put all files from the resource you have pulled (product-collection/templates/\*) into your Shopify directory /templates/\*.
